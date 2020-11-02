@@ -1,0 +1,1 @@
+Sitemap: https://qumeric.github.io/fastpages-qumeric/sitemap.xml
